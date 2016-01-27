@@ -1,0 +1,19 @@
+{
+  "name": "Crypto",
+  "version": "0.0.0",
+  "homepage": "",
+  "authors": [
+    "Crypto"
+  ],
+  "description": "Crypto",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [],
+  "dependencies": {},
+    "main": [
+    "rollups/sha1.js"
+  ]
+}
