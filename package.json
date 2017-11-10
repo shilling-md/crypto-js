@@ -1,0 +1,13 @@
+ {
+  "name": "crypto-js",
+  "version": "0.0.0",
+  "description": "Crypto",
+  "author": "Crypto",
+  "license": "MIT",
+  "homepage": "",
+  "main": [
+    "rollups/sha1.js",
+    "rollups/md5.js"
+  ],
+  "dependencies": {}
+}
